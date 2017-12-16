@@ -1,0 +1,4 @@
+void* malloc()
+{
+	return NULL;
+}
